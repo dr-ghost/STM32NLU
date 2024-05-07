@@ -1,0 +1,11 @@
+../X-CUBE-AI/App/nlp.c:524:9:ai_nlp_get_info	152	static
+../X-CUBE-AI/App/nlp.c:571:9:ai_nlp_get_report	152	static
+../X-CUBE-AI/App/nlp.c:618:10:ai_nlp_get_error	0	static
+../X-CUBE-AI/App/nlp.c:625:10:ai_nlp_create	16	static
+../X-CUBE-AI/App/nlp.c:671:12:ai_nlp_inputs_get	0	static
+../X-CUBE-AI/App/nlp.c:682:12:ai_nlp_outputs_get	0	static
+../X-CUBE-AI/App/nlp.c:693:11:ai_nlp_destroy	0	static
+../X-CUBE-AI/App/nlp.c:700:9:ai_nlp_init	24	static
+../X-CUBE-AI/App/nlp.c:636:10:ai_nlp_create_and_init	88	static
+../X-CUBE-AI/App/nlp.c:717:8:ai_nlp_run	0	static
+../X-CUBE-AI/App/nlp.c:725:8:ai_nlp_forward	0	static
